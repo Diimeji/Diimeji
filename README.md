@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diimeji
-- 👀 I’m interested in agile methodology cloud computing and development operations
+- 👀 I’m interested in agile methodology, cloud computing and development operations
 - 🌱 I’m a Certified Scrum Master currenty learning DevOps and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email: michaeloyebande00@gmail.com
